@@ -128,7 +128,7 @@ a.p:hover span {
 
 <!--QRコードの表示例-->
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">コスモスはまだ７分咲きだけど、ママはごきげん ！</span></h3>
 <a href="20211003_001.JPG" data-lightbox="abc"><img src="20211003_001.JPG" alt="サンプル画像" width="900" /></a>
@@ -155,7 +155,7 @@ a.p:hover span {
 <!--
 </div>
 -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
