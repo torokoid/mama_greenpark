@@ -111,15 +111,15 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します—->
 
-<!-—リンクの作り方、例-—>
-<a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
+<!-—リンクの作り方、例
+<a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>-—>
 
 <!-—ぱんくずリストの表示例-—>
 <!--今回は未使用
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
-—>-
+—->
 
-<!—-表題の表示、背景黄色、流れ文字の例—->
+<!—-表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月3日(日)宝積寺グリーンパークのコスモス、ママおさんぽ !!!</marquee></span></h1>
 
 
