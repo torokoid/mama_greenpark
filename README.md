@@ -126,7 +126,7 @@ a.p:hover span {
 <div style="background-color:rgb(255,255,255,0.3);”>
 
 <!--QRコードの表示例-->
-<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
 <h3><span class="white">コスモスはまだ７分咲きだけど、ママはごきげん ！</span></h3>
