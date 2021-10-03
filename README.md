@@ -153,13 +153,13 @@ a.p:hover span {
 
 
 </div>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/06/15 S.Hada
+ Copyright 2021/10/03 S.Hada
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
