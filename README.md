@@ -109,23 +109,23 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
     
-<!--ここまでは定型文としてそのままコピペして再利用します—>
+<!--ここまでは定型文としてそのままコピペして再利用します—->
 
-<!—リンクの作り方、例—>
+<!-—リンクの作り方、例-—>
 <a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 
-<!—ぱんくずリストの表示例—>
+<!-—ぱんくずリストの表示例-—>
 <!--今回は未使用
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
-—>
+—>-
 
-<!—表題の表示、背景黄色、流れ文字の例—>
+<!—-表題の表示、背景黄色、流れ文字の例—->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月3日(日)宝積寺グリーンパークのコスモス、ママおさんぽ !!!</marquee></span></h1>
 
 
 <div style="background-color:rgb(255,255,255,0.3);”>
 
-<!—QRコードの表示例—>
+<!-—QRコードの表示例-—>
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
