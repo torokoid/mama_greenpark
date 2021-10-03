@@ -122,8 +122,9 @@ a.p:hover span {
 <!—-表題の表示、背景黄色、流れ文字の例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月3日(日)宝積寺グリーンパークのコスモス、ママおさんぽ !!!</marquee></span></h1>
 
-
+<!--
 <div style="background-color:rgb(255,255,255,0.3);”>
+-->
 
 <!--QRコードの表示例-->
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
@@ -151,8 +152,9 @@ a.p:hover span {
 <a href="20211003_019.JPG" data-lightbox="abc"><img src="20211003_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211003_020.JPG" data-lightbox="abc"><img src="20211003_020.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<!--
 </div>
+-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
