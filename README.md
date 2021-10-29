@@ -130,6 +130,7 @@ a.p:hover span {
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h3><span class="white">いけの、おおきなコイみつけたママ！</span></h3>
 <a href="20211029_001.JPG" data-lightbox="abc"><img src="20211029_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20211029_004.JPG" data-lightbox="abc"><img src="20211029_004.JPG" alt="サンプル画像" width="900" /></a>
