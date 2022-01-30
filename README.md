@@ -120,7 +120,7 @@ a.p:hover span {
 —->
 
 <!—-表題の表示、背景黄色、流れ文字の例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月29日(金)宝積寺グリーンパークのコスモス、ママおさんぽ !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年1月30日(日)宝積寺グリーンパークアヒルとコイにパンあげました !!!</marquee></span></h1>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.3);”>
@@ -129,7 +129,10 @@ a.p:hover span {
 <!--QRコードの表示例-->
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+	
+	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月29日(金)宝積寺グリーンパークのコスモス、ママおさんぽ !!!</marquee></span></h1>
 <h3><span class="white">いけの、おおきなコイみつけたママ！</span></h3>
 <a href="20211029_001.JPG" data-lightbox="abc"><img src="20211029_001.JPG" alt="サンプル画像" width="900" /></a>
 
